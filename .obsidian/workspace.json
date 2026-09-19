@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "d923e00caa5f91e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f5be4d876154bac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f65942e982ede41c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78192d54228a9e48",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d0432e1fa5159ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "637a87b0ae1d56d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "534b86772ebe86b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "12976515dd0545e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 454.3000183105469
+  },
+  "right": {
+    "id": "06eba2300e2ae752",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9d357a9905afa35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7308e18e59fdcf86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Calculus/Essence Of Calculus/Derivative formulas through Geometry.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2ab6e6478e9e5cef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06 June 2026.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 06 June 2026"
+            }
+          },
+          {
+            "id": "bfbd7f4705d5a0a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e83beebc207bd290",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7e6b2fc60877cc80",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Calculus/Essence Of Calculus/Derivative formulas through Geometry.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "9c077183b9d5c07d",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "041f1c029a7d95f3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 619.0999755859375
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f65942e982ede41c",
+  "lastOpenFiles": [
+    "Calculus/Essence Of Calculus/Derivative formulas through Geometry.md",
+    "Excalidraw/Derivative formulas through Geometry 2026-09-19 21.04.33.excalidraw.md",
+    "Excalidraw/Paradox of Derivative 2026-09-19 19.18.04.excalidraw.md",
+    "Excalidraw/Derivative formulas through Geometry 2026-09-19 20.58.07.excalidraw.md",
+    "Excalidraw",
+    "Pasted image 20260919211323.png",
+    "Calculus/Essence Of Calculus/Paradox of Derivative.md",
+    "Calculus/Limits & continuity.md",
+    "Calculus/Essence Of Calculus/Introduction.md",
+    "Pasted image 20260919212637.png",
+    "Pasted image 20260919213015.png",
+    "Pasted image 20260919212839.png",
+    "Pasted image 20260919212732.png",
+    "Pasted image 20260919212714.png",
+    "Pasted image 20260919211715.png",
+    "Pasted image 20260919211854.png.md",
+    "Pasted image 20260919211901.png",
+    "Pasted image 20260919212056.png",
+    "Pasted image 20260919212257.png",
+    "Calculus/Calculus Foundations for ML.md",
+    "Calculus/Essence Of Calculus",
+    "Calculus/Untitled.md",
+    "Linear Algebra for ML.md",
+    "sih/Problem Statements.md",
+    "Calculus/Topics.md",
+    "sih",
+    "Calculus",
+    "06 June 2026.md",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
