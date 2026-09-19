@@ -2,7 +2,7 @@ Core Derivative Philosophy :
 How a output of the function changes to smallest inputs. ( How sensitive is the function).
 
 Finding the derivative of a function like $x^2$  might be easy by finding slope of ctangent. But we need derivatives of more and more complex trigonometric , Logarithmic, polynomial, exponential functions in real world applications.
-
+ 
 **The Power Rule via Geometry**
 
 - $x^2$ **(Area of a Square)**:
