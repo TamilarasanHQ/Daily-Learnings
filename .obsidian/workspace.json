@@ -11,10 +11,14 @@
             "id": "f65942e982ede41c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Calculus/Essence Of Calculus/Derivative formulas through Geometry.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Derivative formulas through Geometry"
             }
           }
         ]

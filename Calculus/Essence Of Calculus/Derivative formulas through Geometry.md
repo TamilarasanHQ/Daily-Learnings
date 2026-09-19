@@ -1,5 +1,5 @@
 Core Derivative Philosophy : 
-How a output of the function changes to smallest inputs. ( How sensitive is the function) 
+How a output of the function changes to smallest inputs. ( How sensitive is the function).
 
 Finding the derivative of a function like $x^2$  might be easy by finding slope of tangent. But we need derivatives of more and more complex trigonometric, Logarithmic, polynomial, exponential functions in real world applications.
 
