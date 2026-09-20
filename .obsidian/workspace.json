@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2f5be4d876154bac",
+        "id": "2ea2f87f909803ca",
         "type": "tabs",
         "children": [
           {
-            "id": "f65942e982ede41c",
+            "id": "269536d1bee41845",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -192,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 619.0999755859375
+    "width": 332.699951171875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,27 +207,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f65942e982ede41c",
+  "active": "269536d1bee41845",
   "lastOpenFiles": [
     "Calculus/Essence Of Calculus/Derivative formulas through Geometry.md",
+    "Calculus/Essence Of Calculus/assets/sinx5.png",
+    "Calculus/Essence Of Calculus/assets/sinx4.png",
+    "Calculus/Essence Of Calculus/assets/sinx3.png",
+    "Calculus/Essence Of Calculus/assets/sinx2.png",
+    "Calculus/Essence Of Calculus/assets/sinx1.png",
+    "Calculus/Essence Of Calculus/assets/x3-geometry.png",
+    "Calculus/Essence Of Calculus/assets",
+    "Calculus/Essence Of Calculus/New folder",
+    "sinx5.png",
+    "sinx4.png",
+    "sinx3.png",
+    "sinx2.png",
     "Excalidraw/Derivative formulas through Geometry 2026-09-19 21.04.33.excalidraw.md",
     "Excalidraw/Paradox of Derivative 2026-09-19 19.18.04.excalidraw.md",
     "Excalidraw/Derivative formulas through Geometry 2026-09-19 20.58.07.excalidraw.md",
     "Excalidraw",
-    "Pasted image 20260919211323.png",
     "Calculus/Essence Of Calculus/Paradox of Derivative.md",
     "Calculus/Limits & continuity.md",
     "Calculus/Essence Of Calculus/Introduction.md",
-    "Pasted image 20260919212637.png",
-    "Pasted image 20260919213015.png",
-    "Pasted image 20260919212839.png",
-    "Pasted image 20260919212732.png",
-    "Pasted image 20260919212714.png",
-    "Pasted image 20260919211715.png",
     "Pasted image 20260919211854.png.md",
-    "Pasted image 20260919211901.png",
-    "Pasted image 20260919212056.png",
-    "Pasted image 20260919212257.png",
     "Calculus/Calculus Foundations for ML.md",
     "Calculus/Essence Of Calculus",
     "Calculus/Untitled.md",
