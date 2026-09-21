@@ -11,14 +11,14 @@
             "id": "4db16c4779fc2d68",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "README.md",
-                "bFile": "README.md",
-                "aRef": ""
+                "file": "Calculus/Essence Of Calculus/Visualizing the chain rule and product rule.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: README  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Visualizing the chain rule and product rule"
             }
           }
         ]
