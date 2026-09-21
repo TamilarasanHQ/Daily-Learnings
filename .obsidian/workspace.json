@@ -11,14 +11,14 @@
             "id": "4db16c4779fc2d68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Calculus/Essence Of Calculus/Visualizing the chain rule and product rule.md",
-                "mode": "source",
-                "source": false
+                "aFile": "README.md",
+                "bFile": "README.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Visualizing the chain rule and product rule"
+              "icon": "diff",
+              "title": "Diff: README  (Working Tree)"
             }
           }
         ]
@@ -193,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 567.8999633789062
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,13 +210,14 @@
   },
   "active": "4db16c4779fc2d68",
   "lastOpenFiles": [
+    "Calculus/Essence Of Calculus/Visualizing the chain rule and product rule.md",
+    "README.md",
     "Pasted image 20260921205816.png",
     "Pasted image 20260921205745.png",
     "Pasted image 20260921205717.png",
     "Pasted image 20260921205059.png",
     "Pasted image 20260921205014.png",
     "Pasted image 20260921204312.png",
-    "Calculus/Essence Of Calculus/Visualizing the chain rule and product rule.md",
     "Calculus/README.md",
     "Calculus/Essence Of Calculus/References/References.md",
     "Calculus/Essence Of Calculus/Derivative formulas through Geometry.md",
@@ -224,7 +225,6 @@
     "Calculus/Essence Of Calculus/References/sinx4.png",
     "Calculus/Essence Of Calculus/References/sinx3.png",
     "Calculus/Essence Of Calculus/References/sinx2.png",
-    "Calculus/Essence Of Calculus/References/sinx1.png",
     "Calculus/Essence Of Calculus/References",
     "Calculus/Essence Of Calculus/New folder",
     "Excalidraw/Derivative formulas through Geometry 2026-09-19 21.04.33.excalidraw.md",
