@@ -11,10 +11,14 @@
             "id": "94e428f57fc57500",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Calculus/Essence Of Calculus/What is Euler Number.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "What is Euler Number"
             }
           }
         ]
@@ -76,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.3000183105469,
-    "collapsed": true
+    "width": 454.3000183105469
   },
   "right": {
     "id": "06eba2300e2ae752",
@@ -189,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 567.8999633789062
+    "width": 219.9000244140625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,9 +207,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "041f1c029a7d95f3",
+  "active": "94e428f57fc57500",
   "lastOpenFiles": [
+    "Calculus/Essence Of Calculus/References/References.md",
+    "Calculus/Essence Of Calculus/What is Euler Number.md",
     "Calculus/Essence Of Calculus/Visualizing the chain rule and product rule.md",
+    "Calculus/Essence Of Calculus/References/sinx5.png",
     "README.md",
     "Pasted image 20260921205816.png",
     "Pasted image 20260921205745.png",
@@ -215,9 +221,7 @@
     "Pasted image 20260921205014.png",
     "Pasted image 20260921204312.png",
     "Calculus/README.md",
-    "Calculus/Essence Of Calculus/References/References.md",
     "Calculus/Essence Of Calculus/Derivative formulas through Geometry.md",
-    "Calculus/Essence Of Calculus/References/sinx5.png",
     "Calculus/Essence Of Calculus/References/sinx4.png",
     "Calculus/Essence Of Calculus/References/sinx3.png",
     "Calculus/Essence Of Calculus/References/sinx2.png",
