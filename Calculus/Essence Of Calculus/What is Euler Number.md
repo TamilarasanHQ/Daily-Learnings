@@ -5,7 +5,7 @@ source: https://youtu.be/m2MIpDrF7Es
 # The Number e & Exponential Derivatives
 
 > [!info] Source
-> Notes on 3Blue1Brown’s exploration of the number $e$ and exponential derivatives.
+> Notes on 3Blue1Brown’s exploration of the number $e$ and exponential derivatives..
 
 ## 1. The Setup: Exponential Growth and Derivatives
 
